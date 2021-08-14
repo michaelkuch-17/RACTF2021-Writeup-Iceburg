@@ -1,4 +1,3 @@
-FLAG: ractf{rainbow6}
 # Known Information
 #### username: PrinceAli
 #### c: c3:ae:5e:f9:dc:0e:22:fb
